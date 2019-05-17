@@ -1,0 +1,896 @@
+{
+	"folder_history":
+	[
+		"/home/johannes/pythonpractice",
+		"/home/johannes"
+	],
+	"last_version": 3207,
+	"last_window_id": 25,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1051.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"name",
+						"name_list"
+					],
+					[
+						"url",
+						"urlopen"
+					],
+					[
+						"resul",
+						"results"
+					],
+					[
+						"param",
+						"param_count"
+					],
+					[
+						"param_",
+						"param_names"
+					],
+					[
+						"WOR",
+						"WORD_URL"
+					],
+					[
+						"i",
+						"i"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						"Syntax Check"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"settings",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"Package",
+						"Package Control: List Packages"
+					],
+					[
+						"packae control install package",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 144.0,
+				"history":
+				[
+					"ls",
+					"close",
+					"exit",
+					"clear",
+					" import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": true,
+				"show_open_files": false,
+				"show_tabs": true,
+				"side_bar_visible": false,
+				"status_bar_visible": true
+			},
+			"file_history":
+			[
+				"/home/johannes/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/johannes/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/johannes/text",
+				"/home/johannes/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/johannes/pythonpractice/IntroducingPython/1_chapter.py",
+				"/home/johannes/sandbox/dsfs/project/2_chapter.py",
+				"/home/johannes/.config/i3/config",
+				"/home/johannes/.i3blocks.conf",
+				"/home/johannes/.config/polybar/config",
+				"/home/johannes/website/django_project_1/to_do_list/views.py",
+				"/home/johannes/website/django_project_1/django_project_1/urls.py",
+				"/home/johannes/website/django_project_1/to_do_list/urls.py",
+				"/home/johannes/website/django_project_1/to_do_list/admin.py",
+				"/home/johannes/website/django_project_1/pages/detail.html",
+				"/home/johannes/website/django_project_1/pages/base.html",
+				"/home/johannes/pythonpractice/Ex10.py",
+				"/home/johannes/website/django_project_1/django_project_1/settings.py",
+				"/home/johannes/website/django_project_1/to_do_list/models.py",
+				"/home/johannes/.bashrc",
+				"/home/johannes/website/django_project_1/pages/list.html",
+				"/home/johannes/website/django_project_1/pages/home.html",
+				"/home/johannes/pythonpractice/ex43.py",
+				"/home/johannes/pythonpractice/ex40.py",
+				"/home/johannes/pythonpractice/Ex31.py",
+				"/home/johannes/pythonpractice/oop_test.py",
+				"/home/johannes/pythonpractice/listentest.py",
+				"/home/johannes/pythonpractice/ex42.py",
+				"/home/johannes/Documents/Bewerbungsunterlagen/Lebenslauf/Deutsch/Lebenslauf_JohannesBauer_OU.pdf",
+				"/home/johannes/Nextcloud/Read_me.txt",
+				"/home/johannes/cs109/lectures/cs109-dl-videos/hq-2014.txt",
+				"/home/johannes/cs109/lectures/cs109-dl-videos/hq-2013-section.txt",
+				"/home/johannes/cs109/lectures/cs109-dl-videos/hq-2013-lecture.txt",
+				"/home/johannes/cs109/lectures/cs109-dl-videos/video1.mp4",
+				"/home/johannes/cs109/lectures/cs109-dl-videos/hq-2013.txt",
+				"/home/johannes/cs109/2015/Lectures/data/scraped_links.pkl",
+				"/home/johannes/pythonpractice/Ex26.py"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 144.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/Python/Python.sublime-build",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 203.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1918.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"name",
+						"name_list"
+					],
+					[
+						"url",
+						"urlopen"
+					],
+					[
+						"resul",
+						"results"
+					],
+					[
+						"param",
+						"param_count"
+					],
+					[
+						"param_",
+						"param_names"
+					],
+					[
+						"WOR",
+						"WORD_URL"
+					],
+					[
+						"i",
+						"i"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "@set $mod Mod1\n\nnew_window pixel 1\nnew_float normal\n\nhide_edge_borders none\n\nbindsym $mod+u border none\nbindsym $mod+y border pixel 1\nbindsym $mod+n border normal\n\nfont xft:URWGothic-Book 11\n\nfloating_modifier $mod\n\nbindsym $mod+Return exec i3-sensible-terminal\n\n\n# autostart list\nexec --no-startup-id compton\nexec --no-startup-id xrandr -s 1920x1080 -r 144\nexec --no-startup-id xgamma -gamma 0.9\n\n\n\n# custom shortcuts\nbindsym $mod+Shift+d exec --no-startup-id /home/johannes/dynalist-1.0.4/dynalist\n\n\n# Window kill command\nbindsym $mod+Shift+q kill\n\n# start program launcher\nbindsym $mod+d exec --no-startup-id rofi -show run\n\n# change focus\nbindsym $mod+j focus left\nbindsym $mod+k focus down\nbindsym $mod+l focus up\nbindsym $mod+semicolon focus right\n\nbindsym $mod+Left focus left\nbindsym $mod+Down focus down\nbindsym $mod+Up focus up\nbindsym $mod+Right focus right\n\n# move focused window\nbindsym $mod+Shift+j move left\nbindsym $mod+Shift+k move down\nbindsym $mod+Shift+l move up\nbindsym $mod+Shift+semicolon move right\n\nbindsym $mod+Shift+Left move left\nbindsym $mod+Shift+Down move down\nbindsym $mod+Shift+Up move up\nbindsym $mod+Shift+Right move right\n\n# workspace back and forth (with/without active container)\nworkspace_auto_back_and_forth yes\nbindsym $mod+b workspace back_and_forth\nbindsym $mod+Shift+b move container to workspace back_and_forth; workspace back_and_forth\n\n# split orientation\nbindsym $mod+h split h;exec notify-send 'tile horizontally'\nbindsym $mod+v split v;exec notify-send 'tile vertically'\nbindsym $mod+q split toggle\n\n# toggle fullscreen mode for the focused container\nbindsym $mod+f fullscreen toggle\n\n# change container layout (stacked, tabbed, toggle split)\nbindsym $mod+s layout stacking\nbindsym $mod+w layout tabbed\nbindsym $mod+e layout toggle split\n\n# toggle tiling / floating\nbindsym $mod+Shift+space floating toggle\n\n# change focus between tiling / floating windows\nbindsym $mod+space focus mode_toggle\n\n# toggle sticky\nbindsym $mod+Shift+s sticky toggle\n\n# focus the parent container\nbindsym $mod+a focus parent\n\n# move the currently focused window to the scratchpad\nbindsym $mod+Shift+minus move scratchpad\n\n# Show the next scratchpad window or hide the focused scratchpad window.\n# If there are multiple scratchpad windows, this command cycles through them.\nbindsym $mod+minus scratchpad show\n\n# navigate workspaces next / previous\nbindsym $mod+Ctrl+Right workspace next\nbindsym $mod+Ctrl+Left workspace prev\n\n# workspaces\nset $ws1 1\nset $ws2 2\nset $ws3 3\nset $ws4 4\nset $ws5 5\nset $ws6 6\nset $ws7 7\nset $ws8 8\n\n# switch to workspace\nbindsym $mod+1 workspace $ws1\nbindsym $mod+2 workspace $ws2\nbindsym $mod+3 workspace $ws3\nbindsym $mod+4 workspace $ws4\nbindsym $mod+5 workspace $ws5\nbindsym $mod+6 workspace $ws6\nbindsym $mod+7 workspace $ws7\nbindsym $mod+8 workspace $ws8\n\n# Move focused container to workspace\nbindsym $mod+Ctrl+1 move container to workspace $ws1\nbindsym $mod+Ctrl+2 move container to workspace $ws2\nbindsym $mod+Ctrl+3 move container to workspace $ws3\nbindsym $mod+Ctrl+4 move container to workspace $ws4\nbindsym $mod+Ctrl+5 move container to workspace $ws5\nbindsym $mod+Ctrl+6 move container to workspace $ws6\nbindsym $mod+Ctrl+7 move container to workspace $ws7\nbindsym $mod+Ctrl+8 move container to workspace $ws8\n\n# Move to workspace with focused container\nbindsym $mod+Shift+1 move container to workspace $ws1; workspace $ws1\nbindsym $mod+Shift+2 move container to workspace $ws2; workspace $ws2\nbindsym $mod+Shift+3 move container to workspace $ws3; workspace $ws3\nbindsym $mod+Shift+4 move container to workspace $ws4; workspace $ws4\nbindsym $mod+Shift+5 move container to workspace $ws5; workspace $ws5\nbindsym $mod+Shift+6 move container to workspace $ws6; workspace $ws6\nbindsym $mod+Shift+7 move container to workspace $ws7; workspace $ws7\nbindsym $mod+Shift+8 move container to workspace $ws8; workspace $ws8\n\n# Open specific applications in floating mode\nfor_window [title=\"alsamixer\"] floating enable border pixel 1\nfor_window [class=\"Calamares\"] floating enable border normal\nfor_window [class=\"Clipgrab\"] floating enable\nfor_window [title=\"File Transfer*\"] floating enable\nfor_window [class=\"Galculator\"] floating enable border pixel 1\nfor_window [class=\"GParted\"] floating enable border normal\nfor_window [title=\"i3_help\"] floating enable sticky enable border normal\nfor_window [class=\"Lightdm-gtk-greeter-settings\"] floating enable\nfor_window [class=\"Lxappearance\"] floating enable sticky enable border normal\nfor_window [class=\"Manjaro-hello\"] floating enable\nfor_window [class=\"Manjaro Settings Manager\"] floating enable border normal\nfor_window [title=\"MuseScore: Play Panel\"] floating enable\nfor_window [class=\"Nitrogen\"] floating enable sticky enable border normal\nfor_window [class=\"Oblogout\"] fullscreen enable\nfor_window [class=\"octopi\"] floating enable\nfor_window [title=\"About Pale Moon\"] floating enable\nfor_window [class=\"Pamac-manager\"] floating enable\nfor_window [class=\"Pavucontrol\"] floating enable\nfor_window [class=\"qt5ct\"] floating enable sticky enable border normal\nfor_window [class=\"Qtconfig-qt4\"] floating enable sticky enable border normal\nfor_window [class=\"Simple-scan\"] floating enable border normal\nfor_window [class=\"(?i)System-config-printer.py\"] floating enable border normal\nfor_window [class=\"Skype\"] floating enable border normal\nfor_window [class=\"Thus\"] floating enable border normal\nfor_window [class=\"Timeset-gui\"] floating enable border normal\nfor_window [class=\"(?i)virtualbox\"] floating enable border normal\nfor_window [class=\"Xfburn\"] floating enable\n\n# switch to workspace with urgent window automatically\nfor_window [urgent=latest] focus\n\n# reload the configuration file\nbindsym $mod+Shift+c reload\n\n# restart i3 inplace (preserves your layout/session, can be used to upgrade i3)\nbindsym $mod+Shift+r restart\n\n# exit i3 (logs you out of your X session)\nbindsym $mod+Shift+e exec \"i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'\"\n\n# Set shut down, restart and locking features\nbindsym $mod+0 mode \"$mode_system\"\nset $mode_system (l)ock, (e)xit, switch_(u)ser, (s)uspend, (h)ibernate, (r)eboot, (Shift+s)hutdown\nmode \"$mode_system\" {\n    bindsym l exec --no-startup-id i3exit lock, mode \"default\"\n    bindsym s exec --no-startup-id i3exit suspend, mode \"default\"\n    bindsym u exec --no-startup-id i3exit switch_user, mode \"default\"\n    bindsym e exec --no-startup-id i3exit logout, mode \"default\"\n    bindsym h exec --no-startup-id i3exit hibernate, mode \"default\"\n    bindsym r exec --no-startup-id i3exit reboot, mode \"default\"\n    bindsym Shift+s exec --no-startup-id i3exit shutdown, mode \"default\"\n\n    # exit system mode: \"Enter\" or \"Escape\"\n    bindsym Return mode \"default\"\n    bindsym Escape mode \"default\"\n}\n\n# Resize window (you can also use the mouse for that)\nbindsym $mod+r mode \"resize\"\nmode \"resize\" {\n        # These bindings trigger as soon as you enter the resize mode\n        # Pressing left will shrink the window’s width.\n        # Pressing right will grow the window’s width.\n        # Pressing up will shrink the window’s height.\n        # Pressing down will grow the window’s height.\n        bindsym j resize shrink width 5 px or 5 ppt\n        bindsym k resize grow height 5 px or 5 ppt\n        bindsym l resize shrink height 5 px or 5 ppt\n        bindsym semicolon resize grow width 5 px or 5 ppt\n\n        # same bindings, but for the arrow keys\n        bindsym Left resize shrink width 10 px or 10 ppt\n        bindsym Down resize grow height 10 px or 10 ppt\n        bindsym Up resize shrink height 10 px or 10 ppt\n        bindsym Right resize grow width 10 px or 10 ppt\n\n        # exit resize mode: Enter or Escape\n        bindsym Return mode \"default\"\n        bindsym Escape mode \"default\"\n}\n\n# Autostart applications\nexec --no-startup-id nitrogen --restore; sleep 1; compton -b\nexec --no-startup-id nm-applet\n# exec --no-startup-id xfce4-power-manager\nexec --no-startup-id pamac-tray\nexec --no-startup-id clipit\nexec_always --no-startup-id ff-theme-util\nexec_always --no-startup-id fix_xcursor\nexec_always --no-startup-id /$HOME/.config/polybar/i3wmthemer_bar_launch.sh\n\n# Theme colors\nclient.focused #EAD49B #1E272B #EAD49B #9D6A47 #9D6A47\nclient.focused_inactive #EAD49B #1E272B #EAD49B #78824B #78824B\nclient.unfocused #EAD49B #1E272B #EAD49B #78824B #78824B\nclient.urgent #EAD49B #1E272B #EAD49B #78824B #78824B\nclient.placeholder #EAD49B #1E272B #EAD49B #78824B #78824B\n\nclient.background #1E272B\n\n# Gaps\ngaps inner 10\ngaps outer -4\n\nsmart_gaps on\n\n# Press $mod+Shift+g to enter the gap mode. Choose o or i for modifying outer/inner gaps. Press one of + / - (in-/decrement for current workspace) or 0 (remove gaps for current workspace). If you also press Shift with these keys, the change will be global for all workspaces.\nset $mode_gaps Gaps: (o) outer, (i) inner\nset $mode_gaps_outer Outer Gaps: +|-|0 (local), Shift + +|-|0 (global)\nset $mode_gaps_inner Inner Gaps: +|-|0 (local), Shift + +|-|0 (global)\nbindsym $mod+Shift+g mode \"$mode_gaps\"\n\nmode \"$mode_gaps\" {\n        bindsym o      mode \"$mode_gaps_outer\"\n        bindsym i      mode \"$mode_gaps_inner\"\n        bindsym Return mode \"default\"\n        bindsym Escape mode \"default\"\n}\nmode \"$mode_gaps_inner\" {\n        bindsym plus  gaps inner current plus 5\n        bindsym minus gaps inner current minus 5\n        bindsym 0     gaps inner current set 0\n\n        bindsym Shift+plus  gaps inner all plus 5\n        bindsym Shift+minus gaps inner all minus 5\n        bindsym Shift+0     gaps inner all set 0\n\n        bindsym Return mode \"default\"\n        bindsym Escape mode \"default\"\n}\nmode \"$mode_gaps_outer\" {\n        bindsym plus  gaps outer current plus 5\n        bindsym minus gaps outer current minus 5\n        bindsym 0     gaps outer current set 0\n\n        bindsym Shift+plus  gaps outer all plus 5\n        bindsym Shift+minus gaps outer all minus 5\n        bindsym Shift+0     gaps outer all set 0\n\n        bindsym Return mode \"default\"\n        bindsym Escape mode \"default\"\n}\n\n# set power-manager and volume control\nexec --no-startup-id mate-power-manager\n\nbindsym XF86AudioRaiseVolume exec --no-startup-id amixer -c 0 -q set Master 2dB+ unmute\nbindsym XF86AudioLowerVolume exec --no-startup-id amixer -c 0 -q set Master 2db- unmute\nbindsym XF86AudioMute exec --no-startup-id amixer -q set Master toggle\n\n# touchpad on and off controller on laptop with Fn+<touchpad control functional key>\nbindsym XF86TouchpadOn exec --no-startup-id synclient Touchpadoff=0\nbindsym XF86TouchpadOff exec --no-startup-id synclient Touchpadoff=1\n",
+					"file": "/home/johannes/.config/i3/config",
+					"file_size": 10660,
+					"file_write_time": 132025561430157741,
+					"settings":
+					{
+						"buffer_size": 10653,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						"Syntax Check"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"settings",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"Package",
+						"Package Control: List Packages"
+					],
+					[
+						"packae control install package",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 144.0,
+				"history":
+				[
+					"ls",
+					"close",
+					"exit",
+					"clear",
+					" import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": true,
+				"show_open_files": false,
+				"show_tabs": true,
+				"side_bar_visible": false,
+				"status_bar_visible": true
+			},
+			"expanded_folders":
+			[
+				"/home/johannes/pythonpractice"
+			],
+			"file_history":
+			[
+				"/home/johannes/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/johannes/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/johannes/text",
+				"/home/johannes/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/johannes/pythonpractice/IntroducingPython/1_chapter.py",
+				"/home/johannes/sandbox/dsfs/project/2_chapter.py",
+				"/home/johannes/.config/i3/config",
+				"/home/johannes/.i3blocks.conf",
+				"/home/johannes/.config/polybar/config",
+				"/home/johannes/website/django_project_1/to_do_list/views.py",
+				"/home/johannes/website/django_project_1/django_project_1/urls.py",
+				"/home/johannes/website/django_project_1/to_do_list/urls.py",
+				"/home/johannes/website/django_project_1/to_do_list/admin.py",
+				"/home/johannes/website/django_project_1/pages/detail.html",
+				"/home/johannes/website/django_project_1/pages/base.html",
+				"/home/johannes/pythonpractice/Ex10.py",
+				"/home/johannes/website/django_project_1/django_project_1/settings.py",
+				"/home/johannes/website/django_project_1/to_do_list/models.py",
+				"/home/johannes/.bashrc",
+				"/home/johannes/website/django_project_1/pages/list.html",
+				"/home/johannes/website/django_project_1/pages/home.html",
+				"/home/johannes/pythonpractice/ex43.py",
+				"/home/johannes/pythonpractice/ex40.py",
+				"/home/johannes/pythonpractice/Ex31.py",
+				"/home/johannes/pythonpractice/oop_test.py",
+				"/home/johannes/pythonpractice/listentest.py",
+				"/home/johannes/pythonpractice/ex42.py",
+				"/home/johannes/Documents/Bewerbungsunterlagen/Lebenslauf/Deutsch/Lebenslauf_JohannesBauer_OU.pdf",
+				"/home/johannes/Nextcloud/Read_me.txt",
+				"/home/johannes/cs109/lectures/cs109-dl-videos/hq-2014.txt",
+				"/home/johannes/cs109/lectures/cs109-dl-videos/hq-2013-section.txt",
+				"/home/johannes/cs109/lectures/cs109-dl-videos/hq-2013-lecture.txt",
+				"/home/johannes/cs109/lectures/cs109-dl-videos/video1.mp4",
+				"/home/johannes/cs109/lectures/cs109-dl-videos/hq-2013.txt",
+				"/home/johannes/cs109/2015/Lectures/data/scraped_links.pkl",
+				"/home/johannes/pythonpractice/Ex26.py"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/johannes/pythonpractice"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"default_dir": "/home/johannes/.config/sublime-text-3/Packages/User",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/johannes/.config/i3/config",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10653,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										34,
+										34
+									]
+								],
+								"settings":
+								{
+									"SL.62.region_keys":
+									[
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"syntax": "Packages/zzz A File Icon zzz/aliases/XML (Config).sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 144.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/Python/Python.sublime-build",
+			"position": "0,0,0,0,0,0,27,1918,1078,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 203.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 20,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
