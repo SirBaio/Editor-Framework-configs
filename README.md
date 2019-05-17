@@ -1,2 +1,2 @@
-# Editor/Framework configs
+# dotfiles
 Setup and misc
