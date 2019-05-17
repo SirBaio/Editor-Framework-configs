@@ -1,2 +1,2 @@
-# dotfiles
+# Own Settings
 Setup and misc
